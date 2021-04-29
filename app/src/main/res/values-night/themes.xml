@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.StockApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/light_black</item>
+        <item name="colorPrimaryVariant">@color/black_variant</item>
+        <item name="colorOnPrimary">@color/dark_white</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/gray</item>
+        <item name ="colorControlNormal">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/gray</item>
+        <item name="android:textColorSecondary">@color/gray</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

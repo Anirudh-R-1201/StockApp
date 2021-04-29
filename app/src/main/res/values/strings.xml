@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Stonks</string>
+    <string name="default_theme">Default Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="most_changed">Most Changed</string>
+    <string name="favourites">Favorites</string>
+    <string name="average_price_calculator">Average Price</string>
+    <string name="position_size">Position size</string>
+    <string name="position_average">Position avg</string>
+    <string name="what_would_be_avg">Calculated Avg</string>
+    <string name="amount_to_buy_with">Quantity to buy with</string>
+    <string name="calculate">Calculate</string>
+    <string name="how_much_to_get_avg">Difference to Avg</string>
+    <string name="give_wanted_avg">Wanted avg</string>
+    <string name="trending">Trending</string>
+    <string name="search_results">Search result</string>
+    <string name="search">Search</string>
+    <string name="search_icon">Icon</string>
+    <string name="missing_value">MISSING!</string>
+    <string name="not_possible">NP</string>
+    <string name="should_buy_info">Should Buy Info</string>
+    <string name="new_avg_would_be">New Avg</string>
+    <string name="price_now">Current Price</string>
+    <string name="theme_by_lightness">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="error_msg">ERROR</string>
+
+
+    <string-array name="theme_settings">
+        <item>@string/default_theme</item>
+        <item>@string/dark_theme</item>
+        <item>@string/light_theme</item>
+    </string-array>
+
+    <string name="one_day">1d</string>
+    <string name="five_day">5d</string>
+    <string name="one_month">1m</string>
+    <string name="six_months">6m</string>
+    <string name="ytd">ytd</string>
+    <string name="one_year">1y</string>
+    <string name="five_years">5y</string>
+    <string name="max">MAX</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
